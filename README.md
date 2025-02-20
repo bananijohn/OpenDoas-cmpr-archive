@@ -1,3 +1,5 @@
+# DISLCAIMER: I DIDNT MAKE THIS!
+this is just a copy of the last available repo of unsafe-andrew's OpenDoas-cmpr before it got deleted!
 # OpenDoas-cmpr: a portable version of OpenBSD's `doas` command with the ability to set password prompt through the environment variables
 
 All the information and documentation about OpenDoas itself can be found in [the original repo](https://github.com/Duncaen/OpenDoas "the original repo") or in the [Arch Wiki](https://wiki.archlinux.org/title/Doas "Arch Wiki")
